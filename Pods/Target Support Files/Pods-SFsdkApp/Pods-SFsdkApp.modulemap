@@ -1,0 +1,6 @@
+framework module Pods_SFsdkApp {
+  umbrella header "Pods-SFsdkApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
